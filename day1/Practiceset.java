@@ -1,6 +1,6 @@
 import java.util.*;
 import java.util.InputMismatchException;
-public class Main {
+public class Practiceset {
     public static void main(String[] args) {
         Scanner it=new Scanner(System.in);
       //practice set task1
