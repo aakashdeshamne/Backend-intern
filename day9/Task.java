@@ -42,7 +42,7 @@ class GuessGame {
     }
 }
 
-public class Main {
+public class Task {
     public static void main(String[] args) {
         GuessGame guessGame = new GuessGame();
         guessGame.playGame();
